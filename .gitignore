@@ -20,4 +20,4 @@
 # Out
 main.pdf
 
-.github/workflows
+*.yml
