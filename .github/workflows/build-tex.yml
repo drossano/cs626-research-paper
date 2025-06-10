@@ -23,7 +23,7 @@ jobs:
       - name: Setup Tectonic
         uses: wtfjoke/setup-tectonic@v3
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ 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 }}
           tectonic-version: 0.15.0
 
       - name: Run tectonic
